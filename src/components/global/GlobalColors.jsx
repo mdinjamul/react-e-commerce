@@ -1,0 +1,26 @@
+export const theme = {
+  colors: {
+    heading: "#15171C",
+    text: "#1B201C",
+    white: "#ffffff",
+    black: "#333333",
+    gray: "#aaaaaa",
+    helper: "#8490ff",
+    body_bg: "#ffffff",
+    bg: "#f7f7f7",
+    footer_bg: "#0a1435",
+    btn: "rgb(98 84 243)",
+    primary: "rgb(98 84 243)",
+    hover: "rgb(98 84 243)",
+    border: "#4A4A82",
+    hr: "#ffffff",
+    gradient: "linear-gradient(0deg, #7581E3 0%, #59A9E0 100%)",
+    shadow: "#1B2024 0px 1px 3px 0px, #1B2023 0px 0px 0px 1px",
+    shadowSupport: "#161C1E 0px 1px 4px",
+    transparent: "transparent",
+  },
+  media: {
+    mobile: "768px",
+    tab: "998px",
+  },
+};
